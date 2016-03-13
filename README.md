@@ -1,5 +1,8 @@
 CardDig - Sistema de cardápio digital
 =====================================
+[![Build Status](https://travis-ci.org/henriquenogueira/carddig.svg?branch=master)](https://travis-ci.org/henriquenogueira/carddig)
+[![codecov.io](https://codecov.io/github/henriquenogueira/carddig/coverage.svg?branch=master)](https://codecov.io/github/henriquenogueira/carddig?branch=master)
+[![Code Health](https://landscape.io/github/henriquenogueira/carddig/master/landscape.svg?style=flat)](https://landscape.io/github/henriquenogueira/carddig/master)
 
 Esse sistema visa atender restaurantes e estabelecimentos que desejam automatizar
 e melhorar a experiência de seus clientes usando tecnologia.
