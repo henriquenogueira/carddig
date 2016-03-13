@@ -43,3 +43,8 @@ Os testes do CardDig foram implementados usando o
 Para a execução dos testes:
 
     python manage.py test
+
+Problemas conhecidos
+====================
+
+Nenhum problema reportado até então.
